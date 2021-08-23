@@ -1,6 +1,7 @@
 {
   "scanSettings": {
-    "configMode": "LOCAL",
+    "configMode": "EXTERNAL",
+    "configExternalURL": "https://raw.githubusercontent.com/samjcs/legend-studio/master/wss-unified-agent.config"
     "baseBranches": []
   },
   "checkRunSettings": {
